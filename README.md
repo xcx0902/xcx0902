@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [xcx0902](https://github.com/xcx0902)
 - 👀 I’m interested in C++ Programing Language
-- 🌱 My own blog: <https://xcx0902-blog.github.io>
+- 🌱 My own blog: <https://xcx0902-blog.github.io> / <https://xcx0902.netlify.app>
 - 📫 How to reach me: QQ 3562907147
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
