@@ -7,6 +7,8 @@
 
 [Don't](https://florr.io) [play](https://generals.io) [computer](https://diep.io) [games](https://agar.io)[.](https://digdig.io)
 
+![contribution-snake](https://raw.githubusercontent.com/xcx0902/snake/snake/github-contribution-grid-snake.svg)
+
 <img src="https://github-readme-stats.vercel.app/api?username=xcx0902&show_icons=true" width="430px" alt="XCX's github stats" title="XCX's github stats" />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xcx0902&layout=compact&langs_count=8" width="430px" alt="xcx0902's github stats" title="xcx0902's github stats" />
